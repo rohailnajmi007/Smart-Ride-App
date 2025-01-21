@@ -1,2 +1,17 @@
 # Smart-Ride-App
 An ride hailing app based on the ideas of Careem and Indrive. Includes front end GUI as well as all components of backend.
+1.USER AND DRIVER MANAGEMENT​
+
+2.RIDE REQUEST MATCHING​
+
+3.DYNAMIC RIDE PRICING​
+
+4.DRIVERS RATING SYSTEM​
+
+5.REAL TIME TRAFFIC UPDATES ​
+
+6.REAL TIME LOCATION TRACKING​
+
+7.TRAFFIC SIGNALS FOR INTERSECTIONS​
+
+8.PROPER MAP GUI FOR APPLICATION
