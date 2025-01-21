@@ -1,0 +1,23 @@
+[
+    {
+        "age": 20,
+        "email": "ab",
+        "gender": true,
+        "name": "Abdullah Asim",
+        "phone": "03275883747"
+    },
+    {
+        "age": 21,
+        "email": "mueed@example.com",
+        "gender": "true",
+        "name": "Abdul Mueed",
+        "phone": "03247854965"
+    },
+    {
+        "age": 21,
+        "email": "rohail@user.com",
+        "gender": true,
+        "name": "rohail",
+        "phone": "03214587498"
+    }
+]

@@ -1,17 +1,14 @@
-# Smart-Ride-App
-An ride hailing app based on the ideas of Careem and Indrive. Includes front end GUI as well as all components of backend.
-1.USER AND DRIVER MANAGEMENT​
+# SmartRide
 
-2.RIDE REQUEST MATCHING​
+## Dependancies
+Follow these steps to resolve dependencies.
+1. Run pacman -S make (to install make).
+1. Add "C:\msys64\usr\bin" to path. (if using msys2 and path not already added)
+2. Raylib (run "pacman -S mingw-w64-x86_64-raylib" in MSYS2 terminal)
+3. nlohmann/json.hpp (run "pacman -S mingw-w64-x86_64-nlohmann-json" in MSYS2 terminal)
+4. make (run "pacman -S make in MSYS2 terminal) 
 
-3.DYNAMIC RIDE PRICING​
-
-4.DRIVERS RATING SYSTEM​
-
-5.REAL TIME TRAFFIC UPDATES ​
-
-6.REAL TIME LOCATION TRACKING​
-
-7.TRAFFIC SIGNALS FOR INTERSECTIONS​
-
-8.PROPER MAP GUI FOR APPLICATION
+## Compilation and Execution
+Follow these steps to compile and execute the project,
+1. run "make" from the project directory to compile.
+2. run ".\bin\SmartRide.exe" to execute the project. 
